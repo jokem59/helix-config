@@ -1,4 +1,4 @@
-(define package-name 'mattwparas-helix-package)
+(define package-name 'jokem59-helix-config)
 (define version "0.1.0")
 
 ;; Point to all of the packages that exist
